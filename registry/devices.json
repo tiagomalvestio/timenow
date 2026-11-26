@@ -1,6 +1,15 @@
 {
-  "schemaVersion": 11,
-  "prefix": "TN-BR-BO-",
-  "nextNumber": 11,
-  "reserved": []
+    "schemaVersion":  11,
+    "prefix":  "TN-BR-BO-",
+    "nextNumber":  12,
+    "reserved":  [
+                     {
+                         "hostname":  "TN-BR-BO-0011",
+                         "status":  "reserved",
+                         "reservedAtUtc":  "2026-11-26T19:52:34.9216645Z",
+                         "currentComputer":  "PRINT71",
+                         "serialNumber":  "8VSL624",
+                         "interactiveUser":  "PRINT\\tiago.malvestio"
+                     }
+                 ]
 }
