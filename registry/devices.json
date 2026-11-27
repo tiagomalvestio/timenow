@@ -1,13 +1,19 @@
 {
     "schemaVersion":  11,
     "prefix":  "TN-BR-BO-",
-    "nextNumber":  12,
+    "nextNumber":  13,
     "reserved":  [
                      {
                          "hostname":  "TN-BR-BO-0011",
                          "status":  "reserved",
                          "reservedAtUtc":  "2026-11-27T16:43:37.6452796Z",
                          "currentComputer":  "DESKTOP-HHPZMBX"
+                     },
+                     {
+                         "hostname":  "TN-BR-BO-0012",
+                         "status":  "reserved",
+                         "reservedAtUtc":  "2026-11-27T16:55:13.5157778Z",
+                         "currentComputer":  "TN-BR-BO-0008"
                      }
                  ]
 }
