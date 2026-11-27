@@ -1,61 +1,6 @@
 {
-    "schemaVersion":  11,
-    "prefix":  "TN-BR-BO-",
-    "nextNumber":  20,
-    "reserved":  [
-                     {
-                         "hostname":  "TN-BR-BO-0011",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T16:43:37.6452796Z",
-                         "currentComputer":  "DESKTOP-HHPZMBX"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0012",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T16:55:13.5157778Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0013",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:09:45.6889770Z",
-                         "currentComputer":  "TN-BR-BO-0012"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0014",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:10:52.9904691Z",
-                         "currentComputer":  "DESKTOP-NZBGYHL"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0015",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:19:22.7007309Z",
-                         "currentComputer":  "TN-BR-BO-0012"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0016",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:29:30.3632653Z",
-                         "currentComputer":  "TN-BR-BO-0015"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0017",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:40:28.5019390Z",
-                         "currentComputer":  "TN-BR-BO-0015"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0018",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:43:35.7407360Z",
-                         "currentComputer":  "DESKTOP-KIQWPEZ"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0019",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T17:58:55.4034973Z",
-                         "currentComputer":  "DESKTOP-HXZLSSP"
-                     }
-                 ]
+  "schemaVersion": 11,
+  "prefix": "TN-BR-BO-",
+  "nextNumber": 11,
+  "reserved": []
 }
