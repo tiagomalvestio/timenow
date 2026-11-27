@@ -1,45 +1,6 @@
 {
-    "schemaVersion":  11,
-    "prefix":  "TN-BR-BO-",
-    "nextNumber":  17,
-    "reserved":  [
-                     {
-                         "hostname":  "TN-BR-BO-0011",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-26T19:52:34.9216645Z",
-                         "currentComputer":  "PRINT71",
-                         "serialNumber":  "8VSL624",
-                         "interactiveUser":  "PRINT\\tiago.malvestio"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0012",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T13:50:09.0243218Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0013",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T13:57:41.0605097Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0014",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T14:28:37.1758882Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0015",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T16:18:58.7354572Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     },
-                     {
-                         "hostname":  "TN-BR-BO-0016",
-                         "status":  "reserved",
-                         "reservedAtUtc":  "2026-11-27T16:21:08.4592952Z",
-                         "currentComputer":  "TN-BR-BO-0008"
-                     }
-                 ]
+  "schemaVersion": 11,
+  "prefix": "TN-BR-BO-",
+  "nextNumber": 11,
+  "reserved": []
 }
